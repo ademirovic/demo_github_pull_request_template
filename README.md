@@ -19,4 +19,6 @@ Create a file named PULL_REQUEST_TEMPLATE.md and place it on one of the followin
 ## More information
 * [About issue and pull request templates](https://help.github.com/articles/about-issue-and-pull-request-templates/)
 * [How to create a pull request template](https://help.github.com/articles/creating-a-pull-request-template-for-your-repository/)
+* [Article about templates](https://medium.com/@k.szromek/how-my-mom-helped-my-team-with-pull-requests-reviewing-1139f39aa775)
+* [Collection of various templates](https://github.com/devspace/awesome-github-templates)
 
